@@ -8,11 +8,10 @@ export default defineConfig(({ mode }) => ({
     host: "::",
     port: 8080,
   },
-  base: "./", // ✅ Must match repo name exactly (case-sensitive)
+  base: "/Protfolio/",  // ✅ Must match GitHub repo name exactly
   plugins: [
     react(),
-    mode === 'development' &&
-    componentTagger(),
+    mode === "development" && componentTagger(),
   ].filter(Boolean),
   resolve: {
     alias: {
