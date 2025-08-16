@@ -8,7 +8,7 @@ export default defineConfig(({ mode }) => ({
     host: "::",
     port: 8080,
   },
-  base: "/Protfolio/", // ✅ Must match repo name exactly (case-sensitive)
+  base: "./", // ✅ Must match repo name exactly (case-sensitive)
   plugins: [
     react(),
     mode === 'development' &&
