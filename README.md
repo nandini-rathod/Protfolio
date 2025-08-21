@@ -52,7 +52,7 @@ This portfolio highlights my technical expertise, featured projects, and contact
 ⸻
 
 🚀 Features
-	•	⚡ Smooth animations with GSAP
+    •	⚡ Smooth animations with GSAP
 	•	🌙 Dark, futuristic theme with glowing effects
 	•	📱 Fully responsive design
 	•	🖼️ Project showcase with live demo/code links
@@ -72,7 +72,7 @@ This portfolio highlights my technical expertise, featured projects, and contact
 ⸻
 
 📂 Sections
-	1.	Loading Page – Interactive loading bar before entry.
+    1.	Loading Page – Interactive loading bar before entry.
 	2.	Home – Introduction with a call-to-action “Hire Me”.
 	3.	About Me – Personal introduction, profile photo, and core skills.
 	4.	Projects – Featured work with tags, code, and live demo.
