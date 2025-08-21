@@ -62,11 +62,12 @@ This portfolio highlights my technical expertise, featured projects, and contact
 
 ⸻
 
-🛠️ Tech Stack
-	•	Frontend: HTML5, CSS3, JavaScript
-	•	Animations: GSAP
-	•	Version Control: Git, GitHub
-	•	Other: Responsive design principles
+🛠️ Tech Stack  
+    • Frontend: React, Tailwind CSS, TypeScript  
+    • Animations: GSAP, Locomotive Scroll  
+    • Build Tool: Vite  
+    • Version Control: Git, GitHub  
+    • Other: Responsive design principles
 
 ⸻
 
