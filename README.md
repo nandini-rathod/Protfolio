@@ -6,33 +6,49 @@ This portfolio highlights my technical expertise, featured projects, and contact
 
 ⸻
 
-📸 Screenshots
+## 📸 Screenshots  
 
-🔹 Loading Screen
+<details>
+  <summary>🔹 Loading Screen</summary>  
 
-![Loading Screen](./public/Loading.png)
+  ![Loading Screen](./public/Loading.png)  
 
-🔹 Home Section
+</details> 
 
-![Home Section](./public/Homepage.png)  
+<details>
+  <summary>🏠 Home Section</summary>  
 
-🔹 About Me Section
+  ![Home Section](./public/Homepage.png)  
 
-![About Me](./public/About.png)  
+</details>   
 
+<details>
+  <summary>👩‍💻 About Me Section</summary>  
 
-🔹 Featured Projects
+  ![About Me](./public/About.png)  
 
-![Projects](./public/Project.png)  
+</details>  
 
-🔹 Contact Section
+<details>
+  <summary>📂 Featured Projects</summary>  
 
-![Contact](./public/Contact.png)  
+  ![Projects](./public/Project.png)  
 
-🔹 Footer
+</details>  
 
-![Footer](./public/Footer.png)  
+<details>
+  <summary>📞 Contact Section</summary>  
 
+  ![Contact](./public/Contact.png)  
+
+</details>  
+
+<details>
+  <summary>🔻 Footer</summary>  
+
+  ![Footer](./public/Footer.png)  
+
+</details>  
 ⸻
 
 🚀 Features
