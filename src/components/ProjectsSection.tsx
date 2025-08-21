@@ -21,8 +21,19 @@ const ProjectsSection = () => {
       demo: 'https://github.com/nandini-rathod/CarbonSense',
       tech: ['Sustainability', 'Carbon Tracking', 'Environmental Tech']
     },
+
     {
       id: 2,
+      title: 'DSA-Hub',
+      description: 'A comprehensive platform for practicing Data Structures and Algorithms with interactive problems, solutions, and learning resources.',
+      image: '/Project3.png', // replace with your DSA-Hub project image path
+      github: 'https://github.com/nandini-rathod/DSA-Hub', // GitHub repo link
+      demo: 'https://dsa-hub-beta.vercel.app', // live demo link if available
+      tech: ['React', 'JavaScript', 'DSA', 'Algorithm Practice']
+    },
+
+    {
+      id: 3,
       title: 'Web Page UI Design',
       description: 'A comprehensive UI/UX design project showcasing modern web design principles, created using Figma with focus on user experience and visual aesthetics.',
       image: '/Project2.png',
