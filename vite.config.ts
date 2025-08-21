@@ -9,7 +9,7 @@ export default defineConfig(({ mode }) => ({
   },
 
   // 👇 base is root for local, repo name for GitHub Pages
-  base: mode === "production" ? "/Protfolio/" : "/",
+  base: "./", // relative paths work everywhere
 
   plugins: [react()],
 

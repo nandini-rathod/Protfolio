@@ -83,4 +83,4 @@ This portfolio highlights my technical expertise, featured projects, and contact
 
 ⚡ Live Demo
 
-👉 https://nandini-rathod.github.io/Protfolio/
+👉 [nandini-protfolio.vercel.app](https://nandini-protfolio.vercel.app)
